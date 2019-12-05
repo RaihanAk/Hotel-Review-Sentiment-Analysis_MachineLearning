@@ -34,8 +34,8 @@ You can run it offline using, one of the programs are, [Jupyter Notebook](https:
 
 ## Author
 
-**Fauzi Faruq Nabbani** - 140810160017 - [Fauzifaruqn](https://github.com/Fauzifaruqn)
-**Muhammad Raihan Akbar** - 140810160013 - [RaihanAk](https://github.com/RaihanAk)
+**Fauzi Faruq Nabbani** - 140810160017 - [Fauzifaruqn](https://github.com/Fauzifaruqn) <br/>
+**Muhammad Raihan Akbar** - 140810160013 - [RaihanAk](https://github.com/RaihanAk) <br/>
 **Ibnu Ahsani** - 140810160054 - [IbnuAhsani](https://github.com/IbnuAhsani)
 
 Text Mining Project -- Machine Learning.
