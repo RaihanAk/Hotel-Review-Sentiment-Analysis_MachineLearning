@@ -3,17 +3,11 @@
 
 ## Description
 
-Sentiment analysis about hotel review using Python.
+Sentiment analysis about hotel review using Python. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaihanAk/Hotel-Review-Sentiment-Analysis_MachineLearning/blob/master/Hotel%20Review%20Sentiment%20Analysis.ipynb)
+ 
 
 The file is using .ipynb and is intended to use on [Google Colab](https://colab.research.google.com/).
 It works similarly as Jupyter Notebook or the likes.
-
-
-## Running on Google Colab
-
-1. Open Google Colab
-2. Select "Upload" tab, then upload Hotel Review Sentiment Analysis.ipynb
-3. Complete
 
 Further instuctions are detailed step-by-step on the notebooks.
 
